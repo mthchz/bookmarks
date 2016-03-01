@@ -60,7 +60,7 @@
     - [Color picker](https://atom.io/packages/color-picker)
     - [Bracket close jump](https://atom.io/packages/bracket-close-jump)
     - [Autoprefixer](https://atom.io/packages/autoprefixer)
-    -Thème : [One dark](https://github.com/atom/one-dark-syntax)
+    - Theme : [One dark](https://github.com/atom/one-dark-syntax)
 - [Gitlab](https://gitlab.com) : outil de versioning gratuit utilisant Gitlab
 - [Dploy](https://leanmeanfightingmachine.github.io/dploy/) : outil de déploiment en CLI, via FTP/SFTP et synchronisé avec un client Git
 

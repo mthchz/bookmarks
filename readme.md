@@ -51,10 +51,15 @@
 - [Electron](https://github.com/atom/electron) : encapsulation d'une WebApp pour créer des applications desktop standalone
 
 # Workflow
+- [Gitlab](https://gitlab.com) : outil de versioning gratuit utilisant Gitlab
+- [Dploy](https://leanmeanfightingmachine.github.io/dploy/) : outil de déploiment en CLI, via FTP/SFTP et synchronisé avec un client Git
 
 # Snippets
 
 # Animation
+## Librairies
+- [mo.js](http://mojs.io/) : librairie d'animation JS ([exemple by cordops](http://tympanus.net/Development/Animocons/))
+## Inspiration
 - [useyourinterface](http://useyourinterface.com/) : bibliothèque d'animations (généralement avec les sources)
 - [UIMovement](http://uimovement.com/) : concept d'animation (pas souvent les sources)
 - [Design Pattern by Codepen](http://codepen.io/patterns/) : pattern d'elements animés

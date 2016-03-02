@@ -17,6 +17,7 @@
 - [Foundation by Zurb](http://foundation.zurb.com/)
 - [CSS Properties](http://ref.openweb.io/CSS/) : références des propriétés CSS
 ## JS
+- [Parallax](https://github.com/wagerfield/parallax) : animations parallax, avec gestion de l'acceleromètre sur mobile
 - [SnazzyMaps](https://snazzymaps.com/) : thème pour Google Maps
 - [A better 404](https://www.smashingmagazine.com/2014/08/a-better-404-page/) : prédiction de la page non trouvée via l'API Google
 ## PHP

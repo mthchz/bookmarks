@@ -28,6 +28,7 @@
 - [Basic Must-Use plugins](https://github.com/mthchz/mu-plugins) : configuration et hook basique pour Wordpress
 - [WP-CLI](http://wp-cli.org/) : CLI pour Wordpress
 ## WebPerf / optimisations / bonnes pratiques
+- [HTML5 Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) : liste très complètes de polyfill
 - [RealFaviconGenerator](http://realfavicongenerator.net/) : générateur de favicon pour tous les navigateurs et mobiles
 - [HTML/CSS Code Guide by @mdo](http://mdo.github.io/code-guide/) : les bad/good en HTML/CSS
 - [YellowLabTools](http://yellowlab.tools/) : Web performance et front-end quality

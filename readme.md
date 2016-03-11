@@ -67,6 +67,7 @@
 - [Dploy](https://leanmeanfightingmachine.github.io/dploy/) : outil de déploiment en CLI, via FTP/SFTP et synchronisé avec un client Git
 
 # Snippets
+- [Menu Hamburger animations](https://jonsuh.com/hamburgers/)
 
 # Animation
 ## Librairies
